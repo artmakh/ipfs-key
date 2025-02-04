@@ -1,6 +1,6 @@
-module github.com/ipfs-key
+module github.com/artmakh/ipfs-key
 
-go 1.17
+go 1.23
 
 require github.com/libp2p/go-libp2p-core v0.16.1
 
